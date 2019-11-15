@@ -1,0 +1,15 @@
+.smileyface{
+  fill:gold;
+}
+.left-eye{
+  fill:black;
+}
+.right-eye{
+  fill:black
+}
+.mouth{
+  fill:none;
+  stroke:#000;
+  stroke-width:6px;
+  stroke-linecap:round;
+}
